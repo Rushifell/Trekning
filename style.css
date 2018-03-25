@@ -1,0 +1,14 @@
+h1 {
+	font-size:280px;
+	text-align:center;
+}
+form {
+	text-align:center;
+}
+body {
+    padding:0;
+    margin:0;
+    background-color:#eef8ff;
+    max-height:100px;
+}
+
